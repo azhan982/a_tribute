@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&family=Lato&family=Pacifico&family=Roboto&display=swap');
+
+.big{
+margin: auto;
+width: 973px;
+height: 1000px;
+border: 7px solid darkblue;
+background-color: rgb(214, 221, 255);
+display: flex;
+flex-direction: column;
+padding: 100px 100px 0px 100px;
+font-family: 'Baloo Bhaijaan 2', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Roboto', sans-serif;
+    
+}
+
+.bg{
+    display: flex;
+    height: 36vh;
+    align-items: end;
+    justify-content: space-between;
+    margin-bottom: 95px;
+    font-size: 25px;
+}
+
+img{
+    width: 300px;
+height: 364px;
+border-radius: 167px;
+}
+.bood{
+    margin-bottom: 40px;
+}
+
+.pre{
+    margin-bottom: 40px;
+}
+h2{
+    font-size: 30px;
+}
+
+h1{
+    font-size: 49px;
+}
+
+footer{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    height: 120px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
